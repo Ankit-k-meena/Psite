@@ -1,10 +1,22 @@
-.hero{
+div{
     display: flex;
 }
-.imgA{
-    float: right;
+p{
+    padding-top: 250px;
+    font-size: 20px;
 }
 ul{
-    list-style: none;
     display: flex;
+    list-style: none;
+     /* background-color: aqua; */
+     padding-left: 75%;
+
+}
+li{
+    margin: 20px;
+}
+
+p>span{
+    font-size: xx-large;
+    color: blue;
 }
